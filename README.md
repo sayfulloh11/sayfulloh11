@@ -60,7 +60,8 @@ Senior AI Researcher & Computer Vision Engineer specializing in Autonomous Drivi
 ## 🧰 Tech Stack
 
 - **Languages:** Python  
-- **Frameworks:** PyTorch, MMDetection  
+- **Core Frameworks:** PyTorch, MMDetection  
+- **Additional Frameworks:** TensorFlow, Keras  
 - **Models:** YOLO, RF-DETR, Swin Transformer, Faster R-CNN  
 - **Tools:** OpenCV, Docker, Linux  
 - **Simulation:** ROS, Autoware, Carla  
