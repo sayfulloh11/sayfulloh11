@@ -3,10 +3,10 @@
 ### Senior AI Engineer & Technical Lead · Autonomous Driving · Computer Vision · Data-Centric AI
 
 <p>
+	<a href="https://sayfulloh11.github.io/sayfulloh11/"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=github&logoColor=white" alt="Portfolio website"></a>
 	<a href="https://www.linkedin.com/in/sayfullokh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 	<a href="https://scholar.google.com/citations?user=7K6NL7MAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
 	<a href="mailto:sayfulloh15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-	<a href="https://github.com/sayfulloh11"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=github&logoColor=white" alt="Portfolio"></a>
 </p>
 
 > I build reliable AI systems around the model: data infrastructure, scenario generation, annotation governance, evaluation, deployment, and production operations.
