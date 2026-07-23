@@ -1,98 +1,106 @@
-# 👋 Hi, I'm Sayfulloh Khurbaev
+# Sayfulloh Khurbaev
 
-Senior AI Researcher & Computer Vision Engineer specializing in Autonomous Driving perception systems.
+### Senior AI Engineer & Technical Lead · Autonomous Driving · Computer Vision · Data-Centric AI
 
----
+<p>
+	<a href="https://www.linkedin.com/in/sayfullokh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+	<a href="https://scholar.google.com/citations?user=7K6NL7MAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+	<a href="mailto:sayfulloh15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+	<a href="https://github.com/sayfulloh11"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=github&logoColor=white" alt="Portfolio"></a>
+</p>
 
-## 🚀 About Me
+> I build reliable AI systems around the model: data infrastructure, scenario generation, annotation governance, evaluation, deployment, and production operations.
 
-- 🎓 M.S. in Electrical Engineering & Computer Science (GIST, Korea)
-- 🔬 Senior AI Researcher working on real-world AI systems
-- 🚗 Focused on Autonomous Driving perception and data pipelines
-- 🧠 Expertise in Object Detection, Tracking, and Auto-labeling systems
+**Based in South Korea · Open to relocation across Saudi Arabia, UAE, Qatar, and the GCC**
 
----
+## Executive profile
 
-## 🔥 Professional Experience
+Senior AI Engineer and Technical Lead with 4+ years of end-to-end ownership of production computer-vision systems. My work sits at the intersection of **autonomous mobility, large-scale dataset engineering, and deployable deep learning**.
 
-### 🏢 Senior AI Researcher — SWM (Software Mobility)
-- Led research on **state-of-the-art object detection models**
-- Designed and deployed **end-to-end auto-labeling pipelines**
-- Built scalable **data processing systems for autonomous driving**
-- Developed **traffic light detection system for real-world deployment**
+- Designed Apollo Record → ML-ready scenario generation infrastructure with dynamic Protocol Buffer decoding, channel discovery, temporal synchronization, and sensor resampling.
+- Governed a **500,000+ frame** traffic-light dataset and built automated QA, active-learning, and annotation analytics workflows.
+- Benchmarked and selected detection architectures including RT-DETR, Swin Transformer, YOLO, DINO, DETR, and Faster R-CNN.
+- Shipped a PyTorch → ONNX → TFLite computer-vision system to a national telecommunications monitoring network.
+- M.S. in EECS from GIST, four international publications, and professional working proficiency in English and Korean.
 
-### 🏢 AI Researcher — H4TECH
-- Built **production-grade object detection system from scratch**
-- Designed full **dataset pipeline and training workflow**
-- Applied AI solution to **KT Pole Safety Management Project**
+## What I bring to a Gulf AI organization
 
-### 🏢 AI Engineer — FTS Inc.
-- Improved GCS (Ground Control System) UI using WPF
-- Researched **AI-based drone automation systems**
+| Business need | Engineering value |
+| --- | --- |
+| Smart mobility and autonomous systems | Production-ready perception and multi-sensor data pipelines |
+| AI quality at scale | Dataset governance, active learning, automated validation, and measurable QA |
+| Infrastructure inspection | Detection, segmentation, classification, and edge deployment |
+| Executive-level delivery | Architecture decisions, technical due diligence, risk analysis, and clear documentation |
 
----
+## Selected systems
 
-## 🔥 Key Projects
+### 🚦 Traffic-light perception platform
+**Technical lead · 500K+ annotated frames · safety-critical AD perception**
 
-### 🚦 Traffic Light Detection (YOLO + RF-DETR)
-- Multi-model detection pipeline
-- COCO → YOLO dataset conversion
-- Auto-labeling system for large-scale datasets
-- Tracking-based post-processing for video frames
+Defined the taxonomy, labeling protocols, evaluation criteria, QA thresholds, model benchmark, and production-readiness standard. Built the validation and analytics layers that connect data quality to model performance.
 
-### 🧠 Swin Transformer Detection (MMDetection)
-- Trained Swin Transformer-based models
-- Optimized for **small object detection**
-- Multi-class detection (~40+ traffic light classes)
-- Fine-tuning using pretrained checkpoints
+**Repository:** [autonomous-driving-traffic-light-detection](https://github.com/sayfulloh11/autonomous-driving-traffic-light-detection)
 
----
+### 🛰️ Autonomous-driving scenario generation
+**Sole engineer · Apollo Record · dynamic Protobuf · multi-sensor synchronization**
 
-## 📊 Data & Pipeline Engineering
+Built modular ingestion infrastructure that discovers channels dynamically, synchronizes heterogeneous streams, resamples sensors, and produces fixed-window scenarios for downstream training.
 
-- Built **COCO dataset pipelines**
-- Large-scale dataset cleaning and validation
-- Automated annotation systems
-- Video → frame → detection → tracking workflows
+### 🏗️ KT pole-safety AI system
+**Sole technical owner · detection + segmentation + classification · PyTorch → ONNX → TFLite**
 
----
+Delivered the complete pipeline from field-data collection and annotation design to GPU training, optimization, and live production inference on a national telecommunications network.
 
-## 🧰 Tech Stack
+### 🔬 Multimodal anomaly detection
+**M.S. thesis · Vision Transformer temporal reasoning · RGB + auxiliary modalities**
 
-- **Languages:** Python  
-- **Core Frameworks:** PyTorch, MMDetection  
-- **Additional Frameworks:** TensorFlow, Keras  
-- **Models:** YOLO, RF-DETR, Swin Transformer, Faster R-CNN  
-- **Tools:** OpenCV, Docker, Linux  
-- **Simulation:** ROS, Autoware, Carla  
+Designed a self-attention architecture for safety-critical video anomaly localization, with additional research in radar-camera fusion, monocular BEV generation, ROS, and CARLA/Autoware.
 
----
+## Open-source work
 
-## 🎯 Research Focus
+| Project | Focus |
+| --- | --- |
+| [autonomous-driving-traffic-light-detection](https://github.com/sayfulloh11/autonomous-driving-traffic-light-detection) | Small-object detection, traffic lights, auto-labeling |
+| [swin-transformer-traffic-light-detection](https://github.com/sayfulloh11/swin-transformer-traffic-light-detection) | Swin Transformer and MMDetection |
+| [auto-labeling-traffic-light-system](https://github.com/sayfulloh11/auto-labeling-traffic-light-system) | Detection, tracking, and annotation automation |
+| [anomaly-detection-simple](https://github.com/sayfulloh11/anomaly-detection-simple) | CNN autoencoder and reconstruction heatmaps |
+| [Pytorch_practice](https://github.com/sayfulloh11/Pytorch_practice) | PyTorch experiments and learning archive |
 
-- Autonomous Driving Perception  
-- Small Object Detection  
-- Detection + Tracking integration  
-- Scalable Auto-labeling systems  
+## Technical capabilities
 
----
+**AI & vision:** PyTorch · MMDetection · YOLOv5/v8 · RT-DETR · DINO · DETR · Faster/Mask R-CNN · Swin Transformer · OpenCV · Albumentations
 
-## 🏆 Achievements
+**Data-centric AI:** Active learning · Label Studio · LabelMe · Roboflow · FiftyOne · dataset curation · annotation governance · quality auditing · lifecycle management
 
-- GIST Research Assistant Scholarships (multiple awards)  
-- Full Government Scholarship (GIST)  
-- Full Bachelor Scholarship (Chonnam National University)  
+**AD infrastructure:** Apollo Record · Protocol Buffers · HD Maps · temporal synchronization · sensor resampling · scenario generation · ROS · Autoware · CARLA · radar-camera fusion
 
----
+**Production engineering:** Python · Linux · Docker · CUDA · multi-GPU DDP · ONNX · TensorFlow Lite · experiment tracking · benchmarking · model optimization · Git
 
-## 📫 Contact
+## Research and education
 
-- 📧 Email: sayfulloh1735@gm.gist.ac.kr  
-- 🔗 LinkedIn: linkedin.com/in/sayfullokh  
-- 📊 Google Scholar: https://scholar.google.com/citations?hl=en&user=7K6NL7MAAAAJ  
+- **M.S. Electrical Engineering & Computer Science**, Gwangju Institute of Science and Technology (GIST), 2022–2024
+- **B.S. Electronic & Computer Engineering**, Chonnam National University, 2016–2021
+- Four international publications in radar-camera fusion, monocular BEV, digital twins, and autonomous-driving control
+- GIST Research Achievement Scholarship, multiple Research Assistant Scholarships, and government M.S. scholarship
 
----
+→ [View publications on Google Scholar](https://scholar.google.com/citations?user=7K6NL7MAAAAJ)
 
-## ⚡ Goal
+## Currently open to
 
-To build production-level perception systems for autonomous vehicles and contribute to real-world AI deployment.
+**Senior AI Engineer · Computer Vision Lead · ML Platform Engineer · Autonomous Driving Engineer · AI Technical Lead**
+
+I am especially interested in teams building **smart-city platforms, intelligent transportation, robotics, infrastructure intelligence, and national-scale AI products** across Saudi Arabia, the UAE, Qatar, and the wider Gulf region.
+
+<p>
+	<a href="mailto:sayfulloh15@gmail.com"><strong>Start a conversation →</strong></a>
+	&nbsp;·&nbsp;
+	<a href="https://www.linkedin.com/in/sayfullokh">LinkedIn</a>
+	&nbsp;·&nbsp;
+	<a href="https://scholar.google.com/citations?user=7K6NL7MAAAAJ">Research</a>
+</p>
+
+<details>
+<summary>Languages</summary>
+
+Uzbek (native) · English (professional) · Korean (professional) · Turkish (conversational) · Arabic (beginner, actively learning)
+</details>
